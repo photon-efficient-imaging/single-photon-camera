@@ -1,4 +1,4 @@
-# single-photon-camera
+# Photon-efficient imaging with a single-photon camera
 
 Repo includes data and MATLAB code presented in <br />
 "Photon-efficient imaging with a single-photon camera" by <br />
