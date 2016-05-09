@@ -4,6 +4,10 @@ Repo includes data and code presented in <br />
 "Photon-efficient imaging with a single-photon camera" by <br />
 D.Shin, F.Xu, D.Venkatraman, R.Lussana, F.Villa, F.Zappa, V.K.Goyal, F.N.C.Wong, and J.H.Shapiro
 
+The MATLAB implementation uses photon arrival data obtained by a SPAD camera
+and computes accurate 3D and reflectivity of room-scale objects. The results are compared
+to those from the baseline filtered histogram approach.
+
 The computational imaging framework uses variants of 
 SPIRAL-TAP software by Harmany et al.
 (http://drz.ac/code/spiraltap/)
