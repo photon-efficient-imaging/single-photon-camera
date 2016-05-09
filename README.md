@@ -1,7 +1,7 @@
 # single-photon-camera
 
-Repo includes data and code presented in
-"Photon-efficient imaging with a single-photon camera"
+Repo includes data and code presented in <br />
+"Photon-efficient imaging with a single-photon camera" <br />
 D.Shin, F.Xu, D.Venkatraman, R.Lussana, F.Villa, F.Zappa, V.K.Goyal, F.N.C.Wong, J.H.Shapiro
 
 The computational imaging framework uses variants of 
