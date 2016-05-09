@@ -1,6 +1,6 @@
 # single-photon-camera
 
-repo includes data and code presented in
+Repo includes data and code presented in
 "Photon-efficient imaging with a single-photon camera"
 D.Shin, F.Xu, D.Venkatraman, R.Lussana, F.Villa, F.Zappa, V.K.Goyal, F.N.C.Wong, J.H.Shapiro
 
