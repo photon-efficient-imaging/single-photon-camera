@@ -62,16 +62,18 @@ range_D = [74,80];
 vizsc = 12;
 figure; 
 subplot(2,3,1);
-imagesc(repmat(C_ML/vizsc,[1,1,3])); axis image;
+imshow(uint8(repmat(C_ML/vizsc*255,[1,1,3]))); axis image;
 title({'intensity','(conventional)'})
 subplot(2,3,4);
-imagesc(repmat(C_map/vizsc,[1,1,3])); axis image;
+imshow(uint8(repmat(C_map/vizsc*255,[1,1,3]))); axis image;
 title({'intensity','(proposed)'})
 subplot(2,3,2);
 imagesc(D_ML,range_D); axis image;
+set(gca,'xtick',[],'ytick',[])
 title({'depth','(conventional)'})
 subplot(2,3,5);
 imagesc(D_map,range_D); axis image; 
+set(gca,'xtick',[],'ytick',[])
 title({'depth','(proposed)'})
 colormap('hot');
 
@@ -88,9 +90,11 @@ err_map = mean(abs(E_map(E_map>0)));
 
 subplot(2,3,3);
 imagesc(E_ML,[0,max_cm]); axis image;
+set(gca,'xtick',[],'ytick',[])
 title({'MAE(old depth)',['=' num2str(err_ML) ' cm']})
 subplot(2,3,6);
 imagesc(E_map,[0,max_cm]); axis image; 
+set(gca,'xtick',[],'ytick',[])
 title({'MAE(our depth)',['=' num2str(err_map) ' cm']})
 
 fprintf('* Finished plotting reconstruction results!\n') 
