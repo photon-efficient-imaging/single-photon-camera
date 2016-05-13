@@ -4,7 +4,7 @@
 % "PHOTON-EFFICIENT IMAGING USING A SINGLE-PHOTON CAMERA"
 % D.Shin, F.Xu, D.Venkatraman, R.Lussana, F.Villa
 % F.Zappa, V.Goyal, F.N.C.Wong, J.H.Shapiro
-% in Nature Communications
+% in revision for Nature Communications
 
 % Uses variants of MATLAB packages available freely online:
 % SPIRAL-TAP by Z.H.Harmany et al.
