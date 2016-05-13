@@ -1,6 +1,6 @@
 # Photon-efficient imaging with a single-photon camera
 
-Repo includes data and MATLAB code presented in <br />
+Repo includes data and MATLAB code used in <br />
 "Photon-efficient imaging with a single-photon camera" by <br />
 D.Shin, F.Xu, D.Venkatraman, R.Lussana, F.Villa, F.Zappa, V.K.Goyal, F.N.C.Wong, and J.H.Shapiro
 
