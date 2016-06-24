@@ -3,7 +3,10 @@
 Repo includes data and MATLAB code used in <br />
 "Photon-efficient imaging with a single-photon camera" <br />
 by D.Shin&#42;, F.Xu&#42;, D.Venkatraman, R.Lussana, F.Villa, F.Zappa, V.K.Goyal, F.N.C.Wong, and J.H.Shapiro <br />
-in Nature Communications
+published in Nature Communications
+
+Link: http://www.nature.com/ncomms/2016/160624/ncomms12046/full/ncomms12046.html <br />
+How to cite: Shin, D. et al. Photon-efficient imaging with a single-photon camera. Nat. Commun. 7:12046 doi: 10.1038/ncomms12046 (2016).
 
 The given MATLAB implementation uses photon arrival data obtained by a SPAD camera
 to compute accurate 3D and reflectivity of room-scale objects as proof-of-concept. The results are compared
