@@ -8,9 +8,7 @@ published in Nature Communications
 Link: <br />
 http://www.nature.com/ncomms/2016/160624/ncomms12046/full/ncomms12046.html <br />
 
-How to cite: <br />
-Shin, D. et al. Photon-efficient imaging with a single-photon camera. Nat. Commun. 7:12046 doi: 10.1038/ncomms12046 (2016).
-<br /> or <br />
+How to cite (BibTeX): <br />
 @article{shin2016photon,<br />
   title={Photon-efficient imaging with a single-photon camera},<br />
   author={Shin, Dongeek and Xu, Feihu and Venkatraman, Dheera and Lussana, Rudi and Villa, Federica and Zappa, Franco and Goyal, Vivek K and Wong, Franco NC and Shapiro, Jeffrey H},<br />
