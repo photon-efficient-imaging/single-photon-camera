@@ -1,7 +1,8 @@
 %% run_proposed_step3.m
 
-% Compute coarse object depths and filtering noise photons
-% by solving a sparse deconvolution problem based on OMP 
+% Compute accurate scene depth
+% by solving a TV-regularized optimization problem 
+% using the filtered photon dataset from step 2
 fprintf(' Testing Step 3 : Depth estimation\n');
 
 %
