@@ -5,7 +5,6 @@ Repo includes data and MATLAB code used in <br />
 by D.Shin&#42;, F.Xu&#42;, D.Venkatraman, R.Lussana, F.Villa, F.Zappa, V.K.Goyal, F.N.C.Wong, and J.H.Shapiro <br />
 published in Nature Communications
 
-<br>
 [Link to paper](http://www.nature.com/ncomms/2016/160624/ncomms12046/full/ncomms12046.html)
 <br>
 [Link to project page](https://photon-efficient-imaging.github.io/single-photon-camera-project/)
