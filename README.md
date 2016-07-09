@@ -26,8 +26,10 @@ to compute accurate 3D and reflectivity of room-scale objects as proof-of-concep
 to those from the baseline filtered histogram approach.
 
 The computational imaging framework uses variants of 
-SPIRAL-TAP software by Harmany et al.
+<br>
+- SPIRAL-TAP software by Harmany et al.
 (http://drz.ac/code/spiraltap/)
 and 
-OMP implementation by Becker
+<br>
+- OMP implementation by Becker
 (http://www.mathworks.com/matlabcentral/fileexchange/32402-cosamp-and-omp-for-sparse-recovery).
