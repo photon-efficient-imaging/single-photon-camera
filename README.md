@@ -7,9 +7,9 @@ published in Nature Communications
 
 <br>
 [Link to paper](http://www.nature.com/ncomms/2016/160624/ncomms12046/full/ncomms12046.html)
-
 <br>
 [Link to project page](https://photon-efficient-imaging.github.io/single-photon-camera-project/)
+<br>
 
 How to cite (BibTeX): <br />
 &nbsp; @article{shin2016photon,<br />
